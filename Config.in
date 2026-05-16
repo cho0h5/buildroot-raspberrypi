@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_BUILDROOT_RASPBERRYPI_PATH/package/wifi-rtl8831bu/Config.in"
